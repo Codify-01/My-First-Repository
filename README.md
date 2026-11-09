@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codify-01" alt="codify-01" /></a> </p>
 
-- Building web applications using ASP.NET Core MVC and SQL Server [My First Repository](https://github.com/Codify-01/My-First-Repository)
+- 🔭 I’m currently working on [Codify-01](https://github.com/Codify-01/My-First-Repository)
 
-- ASP.NET Core Web API, Entity Framework Core, and C# **ASP.NET Core MVC, .NET | Software Engineering (BS-SWE)**
+- 🌱 I’m currently learning **ASP.NET Core MVC, .NET**
 
-- 📫 How to reach me **mustafasaiin5757@gmail.com**
+- 💬 Ask me about **Full Stack Dev**
 
-- I enjoy turning ideas into real-world applications with code. **I turn coffee into code ☕**
+- 📫 How to reach me **mustafasaiin41@gmail.com**
+
+- ⚡ Fun fact **Powered by tea and driven by code 🍵💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
