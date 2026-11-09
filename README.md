@@ -1,29 +1,163 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mustafa</h1>
-<h3 align="center">Aspiring .NET Backend Developer | Software Engineering Student</h3>
+ <!-- Profile README for github.com/udaysharmadev -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codify-01&label=Profile%20views&color=0e75b6&style=flat" alt="codify-01" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codify-01" alt="codify-01" /></a> </p>
+# Hey, I'm Uday Sharma 👋
 
-- 🔭 I’m currently working on [Codify-01](https://github.com/Codify-01/My-First-Repository)
+### Tech Content Creator • Developer • Entrepreneur
 
-- 🌱 I’m currently learning **ASP.NET Core MVC, .NET**
+Building things, exploring AI, and sharing technology with the world.
 
-- 💬 Ask me about **Full Stack Dev**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udaysharmaaaaa/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/udaydotai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-sharma-5566a82b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaysharmadev)
 
-- 📫 How to reach me **mustafasaiin41@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=udaysharmadev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
-- ⚡ Fun fact **Powered by tea and driven by code 🍵💻**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codify-01&show_icons=true&locale=en&layout=compact" alt="codify-01" /></p>
+- 🎥 Tech Content Creator reaching **500K+ people**.
+- 🚀 Co-Founder of **HackShastra**.
+- 💡 Founder of **Devndez**.
+- 🧑‍⚖️ Hackathon Judge & Mentor.
+- 🎤 Guest Speaker at tech events.
+- 🤖 Interested in Artificial Intelligence, Developer Tools, and Open Source.
+- 🌱 Constantly learning, building, and experimenting with new technologies.
+- ⚡ Believe in building things that make technology more accessible.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codify-01&show_icons=true&locale=en" alt="codify-01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codify-01&" alt="codify-01" /></p>
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Gravitas](https://github.com/udaysharmadev/Gravitas)
+
+Make Gemini code like Claude models. A development workflow focused on inspecting files, planning, editing, and verifying changes.
+
+</td>
+<td width="50%">
+
+### ✍️ [Not-Ai](https://github.com/udaysharmadev/Not-Ai)
+
+An AI-assisted writing tool focused on natural, clear, and human-quality writing.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 [Hackathon Starter Pack](https://github.com/udaysharmadev/Hackathon-Starter-Pack-Complete-Guide-Roadmap)
+
+A complete guide and roadmap for hackathon beginners, covering ideas, APIs, pitching, and more.
+
+</td>
+<td width="50%">
+
+### 🧠 [AI Roadmap](https://github.com/udaysharmadev/Ai-Roadmap)
+
+A roadmap to explore AI, Machine Learning, Generative AI, RAG, AI Agents, and deployment.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔌 [Free API](https://github.com/udaysharmadev/Free-Api)
+
+A collection of free APIs for developers to explore and use.
+
+</td>
+<td width="50%">
+
+### 🎮 [The Hackathon Simulator](https://github.com/udaysharmadev/The-Hackathon-Simulator)
+
+An interactive project for exploring the hackathon experience.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📦 GitHub Repository Overview
+
+<div align="center">
+
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fudaysharmadev&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=blue)
+
+![GitHub Stars](https://img.shields.io/github/stars/udaysharmadev/Gravitas?style=for-the-badge&label=Gravitas%20Stars)
+
+[![GitHub](https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/udaysharmadev?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+**Ideas → Code → Innovation → Impact**
+
+⭐ If you find my projects useful, consider giving them a star!
+
+</div>
